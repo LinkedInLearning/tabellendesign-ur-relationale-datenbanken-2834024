@@ -1,5 +1,5 @@
 # Tabellendesign für relationale Datenbanken
-Dies ist das Repository für den Kurs `Tabellendesign für relationale Datenbanken`auf LinkedIn Learning. Der gesamte Kurs ist auf [LinkedIn Learning][lil-course-url]erhältlich.
+Dies ist das Repository für den Kurs `Tabellendesign für relationale Datenbanken`auf LinkedIn Learning. Der gesamte Kurs ist auf [LinkedIn Learning] [lil-course-url]erhältlich.
 
 ![course-name-alt-text][lil-thumbnail-url] 
 
