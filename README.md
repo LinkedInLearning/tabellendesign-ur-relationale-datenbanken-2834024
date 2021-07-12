@@ -1,5 +1,5 @@
 # Tabellendesign für relationale Datenbanken
-Dies ist das Repository für den **LinkedIn Learning** Kurs `Tabellendesign für relationale Datenbanken`. Den gesamten Kurs finden Sie auf [LinkedIn Learning][lil-course-url].
+Dies ist das Repository für den **LinkedIn Learning** Kurs `Tabellendesign für relationale Datenbanken`. Den gesamten Kurs finden Sie auf [LinkedIn Learning](https://www.linkedin.com/learning/tabellendesign-fur-relationale-datenbanken).
 
 Dieses Video-Training vermittelt die grundlegenden Strukturen und Entwurfsmuster, die für alle bekannten relationalen Datenbanksysteme gelten. Sie lernen, wie Sie Datenbanken erstellen, die auch mitwachsen, wenn die Anforderungen steigen. Sie werden dabei detailliert erfahren, warum bestimmte Felder genau so angelegt werden sollten, wie es Ihr Trainer zeigt, und Sie sehen aber auch, dass es manchmal Sinn macht, die Regeln zur Normalisierung zu brechen. In vier konkreten Beispielen schauen Sie dem Datenbank-Architekten über die Schulter und Sie erleben, wie sich einfache und komplexere Vorgaben in die passenden Tabellen und Felder umsetzen lassen.
 
