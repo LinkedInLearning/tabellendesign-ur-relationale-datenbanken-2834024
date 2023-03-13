@@ -22,4 +22,4 @@ _Software-Dozent, Programmierer und Autor_
 
 Sehen Sie sich andere Kurse des Autors auf [LinkedIn Learning](https://www.linkedin.com/learning/instructors/lorenz-holscher?u=104) an.
 
-[lil-tn-url]: https://media-exp1.licdn.com/dms/image/C4D0DAQGsvu60ExFZTg/learning-public-crop_675_1200/0/1626083465395?e=1646960400&v=beta&t=mPv3lNxHhCpcKJY-Zwe1yoi8GYMqEYAoKy8yzF_YdgQ
+[lil-tn-url]: https://cdn.lynda.com/course/2834024/2834024-1626083443372-16x9.jpg
